@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/vetores-gratis/seguro-medico-seguro-de-vida-parada-cardiaca-parada-cardiaca-elemento-de-design-de-ideia-de-dor-de-cabeca-contrato-de-protecao-a-saude-diagnostico-de-arritmia-ilustracao-vetorial-de-metafora-de-conceito-isolado_335657-1515.jpg" alt="Prever_custo_seguro"height=400px >
+  <img src="https://image.freepik.com/vetores-gratis/pessoas-fazendo-analise-de-negocios-ideia-de-trabalho-em-equipe-e-lideranca-pequenos-trabalhadores-fazendo-pesquisas-no-computador-laptop-planejamento-de-negocios-ilustracao-vetorial-isolada_277904-1408.jpg" alt="Prever_custo_seguro"height=400px >
 </p>
 
 ## Prever o custo de Seguro de Vida
