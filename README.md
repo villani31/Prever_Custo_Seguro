@@ -2,7 +2,7 @@
   <img src="https://image.freepik.com/vetores-gratis/pessoas-fazendo-analise-de-negocios-ideia-de-trabalho-em-equipe-e-lideranca-pequenos-trabalhadores-fazendo-pesquisas-no-computador-laptop-planejamento-de-negocios-ilustracao-vetorial-isolada_277904-1408.jpg" alt="Prever_custo_seguro"height=400px >
 </p>
 
-## Prever o custo de Seguro de Vida
+## Prever o custo Seguro de Vida
 
 Nesse projeto foi feito uma previsão do custo de seguro de vida, para determinado tipos de clientes, com variáveis que dizem se o cliente é fumante, tem filhos, qual sua localidade, entre outros, e sim acharmos um padrão, utilizando a técnica de AutoML.
 
