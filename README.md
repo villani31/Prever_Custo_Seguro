@@ -3,6 +3,7 @@
 </p>
 
 ## Prever o custo Seguro de Vida
+# Regressão com PyCaret
 
 Nesse projeto foi feito uma previsão do custo de seguro de vida, para determinado tipos de clientes, com variáveis que dizem se o cliente é fumante, tem filhos, qual sua localidade, entre outros, e sim acharmos um padrão, utilizando a técnica de AutoML.
 
